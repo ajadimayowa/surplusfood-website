@@ -8,7 +8,7 @@ function App() {
     <div class="container">
       <Header />
 
-      <p>Welcome to skolar</p>
+      <h1>Welcome to skolar</h1>
 
     </div>
   )
