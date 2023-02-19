@@ -6,7 +6,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      <Container fluid className='bg-primary "min-vh-100"'>
+      <Container fluid className='bg-primary min-vh-100'>
         <Row className='justify-content-center'>
           <h1>Welcome To Surplus Food</h1>
         </Row>
